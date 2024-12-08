@@ -3,6 +3,7 @@ node_modules/
 
 # Ignore log files
 *.log
+* text=auto
 
 # Ignore system files
 .DS_Store

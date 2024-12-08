@@ -1,0 +1,18 @@
+{
+  "name": "cypresstraining",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "open": "cypress open"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Rosan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.16.1"
+  }
+}
